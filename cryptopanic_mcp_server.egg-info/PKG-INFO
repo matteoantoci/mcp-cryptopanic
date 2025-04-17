@@ -1,13 +1,18 @@
+Metadata-Version: 2.4
+Name: cryptopanic-mcp-server
+Version: 0.1.0
+Summary: Provide the latest cryptocurrency news for AI agents.
+Requires-Python: >=3.13
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: dotenv>=0.9.9
+Requires-Dist: mcp[cli]>=1.3.0
+Requires-Dist: requests>=2.32.3
+Dynamic: license-file
+
 # cryptopanic-mcp-server
 
-[![Discord](https://img.shields.io/discord/1353556181251133481?cacheSeconds=3600)](https://discord.gg/aRnuu2eJ)
-![GitHub License](https://img.shields.io/github/license/kukapay/blockbeats-mcp)
-
 Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
-
-<a href="https://glama.ai/mcp/servers/dp6kztv7yx">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/dp6kztv7yx/badge" alt="cryptopanic-mcp-server MCP server" />
-</a>
 
 ## Tools
 
