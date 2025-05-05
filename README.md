@@ -103,10 +103,10 @@ Example Output for `get_crypto_news`:
 
 ```
 "mcpServers": { 
-  "cryptopanic-mcp-server": { 
+  "mcp-cryptopanic": { 
     "command": "uv", 
     "args": [ 
-      "--directory", "/your/path/to/cryptopanic-mcp-server", 
+      "--directory", "/your/path/to/mcp-cryptopanic"", 
       "run", 
       "main.py" 
     ], 

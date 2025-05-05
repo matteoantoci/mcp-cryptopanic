@@ -1,5 +1,5 @@
 [project]
-name = "cryptopanic-mcp-server"
+name = "mcp-cryptopanic"
 version = "0.1.0"
 description = "Provide the latest cryptocurrency news for AI agents."
 readme = "README.md"
