@@ -5,10 +5,6 @@
 
 Provide the latest cryptocurrency news to AI agents, powered by [CryptoPanic](https://cryptopanic.com/).
 
-<a href="https://glama.ai/mcp/servers/dp6kztv7yx">
-  <img width="380" height="200" src="https://glama.ai/mcp/servers/dp6kztv7yx/badge" alt="cryptopanic-mcp-server MCP server" />
-</a>
-
 ## Tools
 
 The server implements the following tools:
